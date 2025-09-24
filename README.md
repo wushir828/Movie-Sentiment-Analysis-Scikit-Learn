@@ -8,7 +8,7 @@
 
 本项目使用Python及核心的Scikit-learn库，对一份包含5万条电影评论的数据集进行处理和分析。我们实现了一个完整的机器学习流程，最终训练出一个能够判断新评论情感倾向的模型。
 
-
+最终成果展示：<img width="858" height="651" alt="Image" src="https://github.com/user-attachments/assets/c63bd84f-98a3-4c89-9412-abb6cea0c35c" />
 ---
 
 ## 🚀 工作流程 (Workflow)
