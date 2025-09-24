@@ -10,7 +10,13 @@
 
 最终成果展示：<img width="858" height="651" alt="Image" src="https://github.com/user-attachments/assets/c63bd84f-98a3-4c89-9412-abb6cea0c35c" />
 ---
+## 💻 技术栈 (Tech Stack)
 
+* **Python 3**
+* **Scikit-learn**: 用于模型训练与数据处理。
+* **Pandas**: 用于数据读取和管理。
+* **Jupyter Notebook**: 用于交互式开发和展示。
+---
 ## 🚀 工作流程 (Workflow)
 
 1.  **数据加载与预处理 (Data Loading & Preprocessing)**:
@@ -47,11 +53,6 @@
 4.  **运行Jupyter Notebook**:
     * 启动Jupyter Notebook/Lab，并打开`.ipynb`文件，按顺序执行所有单元格。
 
----
 
-## 💻 技术栈 (Tech Stack)
 
-* **Python 3**
-* **Scikit-learn**: 用于模型训练与数据处理。
-* **Pandas**: 用于数据读取和管理。
-* **Jupyter Notebook**: 用于交互式开发和展示。
+
